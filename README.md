@@ -2,7 +2,6 @@
 
 Estudando Ciência da Computação na UNISC.
 
-Atualmente estudando HTML, CSS e JavaScript.
 
 ## Contato:
 <div> 
