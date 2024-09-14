@@ -9,11 +9,15 @@
 
 ###
 
-<h4 align="left">🧑‍💻Sobre:</h4>
+<h4 align="left">🧑‍💻 Sobre:</h4>
 
 ###
 
 <p align="left">📌 Ciência da Computação - UNISC 6/8<br>📚 Estudando Java para Mobile e Flutter (Dart)<br>🔥 Conhecimentos em Java, Python, C++, MySQL, HTML, CSS e JavaScript.</p>
+
+###
+
+<h4 align="left">⚡ Conhecimentos</h4>
 
 ###
 
