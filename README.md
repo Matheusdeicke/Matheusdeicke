@@ -9,7 +9,7 @@
 
 ###
 
-<h4 align="left">🧑‍💻 Sobre:</h4>
+<h3 align="left">🧑‍💻 Sobre:</h3>
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-<h4 align="left">⚡ Conhecimentos</h4>
+<h3 align="left">⚡ Conhecimentos</h3>
 
 ###
 
