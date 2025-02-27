@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">📌 Ciência da Computação - UNISC 6/8<br>📚 Estudando Java para Mobile e Flutter (Dart)<br>🔥 Conhecimentos em Java, Python, C++, MySQL, HTML, CSS e JavaScript.</p>
+<p align="left">📌 Ciência da Computação - UNISC 7/8<br>📚 Estudando Java para Mobile e Flutter (Dart)<br>🔥 Conhecimentos em Java, Python, C++, MySQL, HTML, CSS e JavaScript.</p>
 
 ###
 
