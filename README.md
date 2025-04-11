@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">📌 Ciência da Computação - UNISC (7º semestre)<br>📚 Estudando Análise de Dados com Power BI, SQL e Python<br>🔥 Conhecimentos em Java, Python, C++, MySQL, HTML, CSS e JavaScript</p>
+<p align="left">📌 Ciência da Computação - UNISC (7º semestre)<br>📌 Bolsista no Programa UNISC de Iniciação Científica (PUIC)<br>📚 Estudando Análise de Dados com Power BI, SQL e Python<br>🔥 Conhecimentos em Java, Python, C++, MySQL, HTML, CSS e JavaScript</p>
 
 ###
 
