@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">📌 Ciência da Computação - UNISC (8º semestre)<br>📌 Bolsista no Programa UNISC de Iniciação Científica (PUIC)<br>📚 Bolsista no Programa de Jovens Talentos Imply 7ª edição<br>
+<p align="left">📌 Ciência da Computação - UNISC (8º semestre)<br>📚 Bolsista no Programa UNISC de Iniciação Científica (PUIC)<br>📚 Bolsista no Programa de Jovens Talentos Imply 7ª edição<br>
 
 ###
 
